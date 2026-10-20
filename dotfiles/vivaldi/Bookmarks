@@ -1,0 +1,765 @@
+{
+   "checksum": "6a16493d487aa8f6b84980f61f771135",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13426075442847670",
+               "date_last_used": "0",
+               "guid": "848a4ba4-5f69-4a38-8ccc-d0cea9fe0709",
+               "id": "9",
+               "meta_info": {
+                  "DisplayURL": "https://social.vivaldi.net/",
+                  "Partner": "848a4ba4-5f69-4a38-8ccc-d0cea9fe0709",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_vivaldi_social.png"
+               },
+               "name": "Vivaldi Social",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-social"
+            }, {
+               "date_added": "13426075442847700",
+               "date_last_used": "0",
+               "guid": "60f1da3b-bc18-408f-9849-08b1c267a465",
+               "id": "10",
+               "meta_info": {
+                  "DisplayURL": "https://www.lefigaro.fr/",
+                  "Partner": "60f1da3b-bc18-408f-9849-08b1c267a465",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_fr_lefigaro.png"
+               },
+               "name": "Le Figaro",
+               "type": "url",
+               "url": "https://www.lefigaro.fr/"
+            }, {
+               "date_added": "13426075442847727",
+               "date_last_used": "0",
+               "guid": "51064b72-c6df-4607-b0e5-36f1c184dc84",
+               "id": "11",
+               "meta_info": {
+                  "DisplayURL": "https://www.qwant.com/fr",
+                  "Partner": "51064b72-c6df-4607-b0e5-36f1c184dc84",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_qwant.png"
+               },
+               "name": "Qwant",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/qwant-fr"
+            }, {
+               "date_added": "13426075442847756",
+               "date_last_used": "0",
+               "guid": "b095403c-0348-4d47-b03e-c9b408bfc92b",
+               "id": "12",
+               "meta_info": {
+                  "DisplayURL": "https://vivaldi.com/",
+                  "Partner": "b095403c-0348-4d47-b03e-c9b408bfc92b",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_vivaldi.png"
+               },
+               "name": "Vivaldi Browser",
+               "type": "url",
+               "url": "https://vivaldi.com/"
+            }, {
+               "date_added": "13426075442847800",
+               "date_last_used": "0",
+               "guid": "cbe202d3-71df-4491-a825-448e4d745e43",
+               "id": "13",
+               "meta_info": {
+                  "DisplayURL": "https://vivaldi.net/",
+                  "Partner": "cbe202d3-71df-4491-a825-448e4d745e43",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_vivaldi_community.png"
+               },
+               "name": "Communauté Vivaldi",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-community-fr"
+            }, {
+               "date_added": "13426075442847888",
+               "date_last_used": "0",
+               "guid": "68fc9516-59ac-447e-a8a6-ff27d558da91",
+               "id": "14",
+               "meta_info": {
+                  "Description": "voyages",
+                  "DisplayURL": "https://www.booking.com/",
+                  "Partner": "68fc9516-59ac-447e-a8a6-ff27d558da91",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/bookingcom-fr"
+            }, {
+               "date_added": "13426075442847536",
+               "date_last_used": "0",
+               "guid": "c49a405e-ba3d-42b4-ad9a-4831e2ed35e4",
+               "id": "7",
+               "meta_info": {
+                  "DisplayURL": "https://www.amazon.com/",
+                  "Partner": "c49a405e-ba3d-42b4-ad9a-4831e2ed35e4",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_amazon.png"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon-fr-bk"
+            }, {
+               "date_added": "13426075442847611",
+               "date_last_used": "0",
+               "guid": "4e1fc0cf-08f4-40d9-acc9-dc79ea44cf82",
+               "id": "8",
+               "meta_info": {
+                  "DisplayURL": "https://www.accuweather.com/",
+                  "Partner": "4e1fc0cf-08f4-40d9-acc9-dc79ea44cf82",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_accuweather.png"
+               },
+               "name": "AccuWeather",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-accuweather"
+            } ],
+            "date_added": "13426075442847463",
+            "date_last_used": "0",
+            "date_modified": "13428175191950756",
+            "guid": "e5c019f8-c8a4-403c-99c8-d3502d7d09b3",
+            "id": "6",
+            "meta_info": {
+               "Partner": "e5c019f8-c8a4-403c-99c8-d3502d7d09b3",
+               "Speeddial": "true"
+            },
+            "name": "Accueil",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13426075442847953",
+               "date_last_used": "0",
+               "guid": "dc52f1d1-165c-4153-b0c2-36fa5fac9b81",
+               "id": "16",
+               "meta_info": {
+                  "Description": "commerces",
+                  "DisplayURL": "https://www.carrefour.fr/",
+                  "Partner": "dc52f1d1-165c-4153-b0c2-36fa5fac9b81",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_fr_carrefour.png"
+               },
+               "name": "Carrefour",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/carrefour-fr"
+            }, {
+               "date_added": "13426075442847993",
+               "date_last_used": "0",
+               "guid": "ddf5b8bf-95ca-44d5-b895-1c0feea6b244",
+               "id": "17",
+               "meta_info": {
+                  "Description": "commerces",
+                  "DisplayURL": "https://www.cdiscount.com/",
+                  "Partner": "ddf5b8bf-95ca-44d5-b895-1c0feea6b244",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_fr_cdiscount.png"
+               },
+               "name": "Cdiscount.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/cdiscount-fr"
+            }, {
+               "date_added": "13426075442848048",
+               "date_last_used": "0",
+               "guid": "fc125059-16ca-491a-b0de-dbad60f5e3ff",
+               "id": "18",
+               "meta_info": {
+                  "Description": "commerces",
+                  "DisplayURL": "https://www.eneba.com/fr",
+                  "Partner": "fc125059-16ca-491a-b0de-dbad60f5e3ff",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_eneba.png"
+               },
+               "name": "Eneba",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/eneba-fr-fr"
+            }, {
+               "date_added": "13426075442848092",
+               "date_last_used": "0",
+               "guid": "1b95b406-5515-480a-906c-865d12efd3a9",
+               "id": "19",
+               "meta_info": {
+                  "Description": "commerces",
+                  "DisplayURL": "https://www.fnac.com/",
+                  "Partner": "1b95b406-5515-480a-906c-865d12efd3a9",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_fr_fnac.png"
+               },
+               "name": "Fnac",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/fnac-fr"
+            }, {
+               "date_added": "13426075442848144",
+               "date_last_used": "0",
+               "guid": "6ccd6c69-d23c-4b57-a6b3-b13b9fd676db",
+               "id": "20",
+               "meta_info": {
+                  "Description": "commerces",
+                  "DisplayURL": "https://www.shein.com/",
+                  "Partner": "6ccd6c69-d23c-4b57-a6b3-b13b9fd676db",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_shein.png"
+               },
+               "name": "SHEIN",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-shein"
+            } ],
+            "date_added": "13426075442847937",
+            "date_last_used": "0",
+            "date_modified": "13426075442848144",
+            "guid": "7dc00b6d-b26b-4371-83cb-2cd63274b9b8",
+            "id": "15",
+            "meta_info": {
+               "Partner": "7dc00b6d-b26b-4371-83cb-2cd63274b9b8",
+               "Speeddial": "true"
+            },
+            "name": "Commerces",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13426075442848298",
+               "date_last_used": "0",
+               "guid": "8c8e8082-fdb5-4db0-9078-77aa4db71669",
+               "id": "22",
+               "meta_info": {
+                  "Description": "voyages",
+                  "DisplayURL": "https://www.kayak.fr/",
+                  "Partner": "8c8e8082-fdb5-4db0-9078-77aa4db71669",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_kayak.png"
+               },
+               "name": "Kayak",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/kayak-fr"
+            }, {
+               "date_added": "13426075442848347",
+               "date_last_used": "0",
+               "guid": "576c0090-2626-4554-bb9a-6f9c0bacaf47",
+               "id": "23",
+               "meta_info": {
+                  "Description": "voyages",
+                  "DisplayURL": "https://skyscanner.com/",
+                  "Partner": "576c0090-2626-4554-bb9a-6f9c0bacaf47",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_skyscanner.png"
+               },
+               "name": "Skyscanner",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/skyscanner"
+            }, {
+               "date_added": "13426075442848391",
+               "date_last_used": "0",
+               "guid": "37ca0399-d4b3-44f8-9fa8-5e678c59aed5",
+               "id": "24",
+               "meta_info": {
+                  "Description": "voyages",
+                  "DisplayURL": "https://www.trip.com/",
+                  "Partner": "37ca0399-d4b3-44f8-9fa8-5e678c59aed5",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_trip.png"
+               },
+               "name": "Trip.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-trip"
+            }, {
+               "date_added": "13426075442848540",
+               "date_last_used": "0",
+               "guid": "25672435-2187-4c7b-aacc-8ca9c75e69b5",
+               "id": "25",
+               "meta_info": {
+                  "Description": "voyages",
+                  "DisplayURL": "https://www.tripadvisor.com/",
+                  "Partner": "25672435-2187-4c7b-aacc-8ca9c75e69b5",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_tripadvisor.png"
+               },
+               "name": "Tripadvisor",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/tripadvisor-world"
+            }, {
+               "date_added": "13426075442848587",
+               "date_last_used": "0",
+               "guid": "6dafc780-86dc-40e6-ac81-92b033fd8083",
+               "id": "26",
+               "meta_info": {
+                  "Description": "voyages",
+                  "DisplayURL": "https://www.getyourguide.com/",
+                  "Partner": "6dafc780-86dc-40e6-ac81-92b033fd8083",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_getyourguide.png"
+               },
+               "name": "GetYourGuide",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-getyourguide"
+            } ],
+            "date_added": "13426075442848274",
+            "date_last_used": "0",
+            "date_modified": "13426075442848587",
+            "guid": "0f0a0d3a-bf40-4367-a65c-ed43f85888ed",
+            "id": "21",
+            "meta_info": {
+               "Partner": "0f0a0d3a-bf40-4367-a65c-ed43f85888ed",
+               "Speeddial": "true"
+            },
+            "name": "Voyages",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13426075442849395",
+                  "date_last_used": "0",
+                  "guid": "a91e4453-0a84-4a58-be63-eb3d7c257c35",
+                  "id": "29",
+                  "meta_info": {
+                     "DisplayURL": "https://vivaldi.com/features",
+                     "Partner": "a91e4453-0a84-4a58-be63-eb3d7c257c35",
+                     "Thumbnail": "/resources/sd_thumbnails/sd_vivaldi.png"
+                  },
+                  "name": "Fonctionnalités de Vivaldi",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-browser-features-fr"
+               }, {
+                  "date_added": "13426075442849810",
+                  "date_last_used": "0",
+                  "guid": "eb5c2f32-c648-4f69-a875-472da896d50b",
+                  "id": "30",
+                  "meta_info": {
+                     "DisplayURL": "https://webmail.vivaldi.net/",
+                     "Partner": "eb5c2f32-c648-4f69-a875-472da896d50b",
+                     "Thumbnail": "/resources/sd_thumbnails/sd_webmail.png"
+                  },
+                  "name": "Vivaldi Webmail",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-webmail"
+               }, {
+                  "date_added": "13426075442849879",
+                  "date_last_used": "0",
+                  "guid": "01d6f4e4-a695-4450-a65d-f69366027dae",
+                  "id": "31",
+                  "meta_info": {
+                     "DisplayURL": "https://vivaldi.com/game",
+                     "Partner": "01d6f4e4-a695-4450-a65d-f69366027dae",
+                     "Thumbnail": "/resources/sd_thumbnails/sd_vivaldia_games.png"
+                  },
+                  "name": "Vivaldia Games",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/vivaldia-game"
+               } ],
+               "date_added": "13426075442849374",
+               "date_last_used": "0",
+               "date_modified": "13426075442849879",
+               "guid": "04f107b7-203e-49e6-ab97-d6b9e613cc4a",
+               "id": "28",
+               "meta_info": {
+                  "Bookmarkbar": "true"
+               },
+               "name": "Vivaldi",
+               "type": "folder"
+            }, {
+               "date_added": "13426075442849945",
+               "date_last_used": "0",
+               "guid": "c5ceea21-8d73-4eec-89d1-be72552cf9c8",
+               "id": "32",
+               "meta_info": {
+                  "DisplayURL": "https://www.expedia.com/eu",
+                  "Partner": "c5ceea21-8d73-4eec-89d1-be72552cf9c8",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_expedia.png"
+               },
+               "name": "Expedia",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/expedia-eu"
+            }, {
+               "date_added": "13426075442850001",
+               "date_last_used": "0",
+               "guid": "d5158dd0-fb6a-49e4-922a-75266cde3f84",
+               "id": "33",
+               "meta_info": {
+                  "DisplayURL": "https://www.tripadvisor.com/",
+                  "Partner": "d5158dd0-fb6a-49e4-922a-75266cde3f84",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_tripadvisor.png"
+               },
+               "name": "Tripadvisor",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/tripadvisor-bk"
+            }, {
+               "date_added": "13426075442850052",
+               "date_last_used": "0",
+               "guid": "f79cd6e8-ebc0-444d-ac96-00da456dcb59",
+               "id": "34",
+               "meta_info": {
+                  "DisplayURL": "https://www.aliexpress.com/",
+                  "Partner": "f79cd6e8-ebc0-444d-ac96-00da456dcb59",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/aliexpresscom-fr"
+            }, {
+               "date_added": "13426075442850100",
+               "date_last_used": "0",
+               "guid": "930d9804-4a0f-45ee-9317-b78ed2b548fd",
+               "id": "35",
+               "meta_info": {
+                  "DisplayURL": "https://www.ebay.com/",
+                  "Partner": "930d9804-4a0f-45ee-9317-b78ed2b548fd",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-fr-bk"
+            }, {
+               "date_added": "13426075442850162",
+               "date_last_used": "0",
+               "guid": "c78a0074-e15d-48c1-bc3c-ffd8e8f69007",
+               "id": "36",
+               "meta_info": {
+                  "DisplayURL": "https://www.cdiscount.com/",
+                  "Partner": "c78a0074-e15d-48c1-bc3c-ffd8e8f69007",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_fr_cdiscount.png"
+               },
+               "name": "Cdiscount.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/cdiscount-fr-bk"
+            }, {
+               "date_added": "13426075442850216",
+               "date_last_used": "0",
+               "guid": "febad4b6-b62a-48ae-a4b8-56d89930a50a",
+               "id": "37",
+               "meta_info": {
+                  "DisplayURL": "https://www.shein.com/",
+                  "Partner": "febad4b6-b62a-48ae-a4b8-56d89930a50a",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_shein.png"
+               },
+               "name": "SHEIN",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/shein-fr-bk"
+            }, {
+               "date_added": "13426075442850262",
+               "date_last_used": "0",
+               "guid": "f0d34975-d9c5-4158-8a1a-9732a9520308",
+               "id": "38",
+               "meta_info": {
+                  "DisplayURL": "https://www.fnac.com/",
+                  "Partner": "f0d34975-d9c5-4158-8a1a-9732a9520308",
+                  "Thumbnail": "/resources/sd_thumbnails/sd_fr_fnac.png"
+               },
+               "name": "Fnac",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/fnac-fr-bk"
+            } ],
+            "date_added": "13426075442849350",
+            "date_last_used": "0",
+            "date_modified": "13426075442850262",
+            "guid": "12c04539-d01e-4fd3-9fbf-aa09a91e91ba",
+            "id": "27",
+            "meta_info": {
+               "Partner": "12c04539-d01e-4fd3-9fbf-aa09a91e91ba"
+            },
+            "name": "Signets",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13398646753000000",
+                  "date_last_used": "0",
+                  "guid": "093950f2-59a7-4645-93af-035abdd6ffd3",
+                  "id": "41",
+                  "name": "dans le domaine du développement web ou dois je me specialister pour ztre au top - Recherche Google",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=dans+le+domaine+du+d%C3%A9veloppement+web+ou+dois+je+me+specialister+pour+ztre+au+top&sca_esv=3b7e4dc23e2c7901&sxsrf=AE3TifP9kWyVRxT_U2inEISpqMHC5rVXFA%3A1754180069672&ei=5amOaIXrKJ2kkdUPmoukoAY&ved=0ahUKEwjF8bL_re2OAxUdUqQEHZoFCWQQ4dUDCBA&uact=5&oq=dans+le+domaine+du+d%C3%A9veloppement+web+ou+dois+je+me+specialister+pour+ztre+au+top&gs_lp=Egxnd3Mtd2l6LXNlcnAiUWRhbnMgbGUgZG9tYWluZSBkdSBkw6l2ZWxvcHBlbWVudCB3ZWIgb3UgZG9pcyBqZSBtZSBzcGVjaWFsaXN0ZXIgcG91ciB6dHJlIGF1IHRvcEivwwJQ9gVY7MIBcAd4AZABAJgB9QGgAeEcqgEGMC4xOS40uAEDyAEA-AEBmAIBoAITwgIKEAAYsAMY1gQYR5gDAIgGAZAGCJIHATGgB4MVsgcAuAcAwgcDMy0xyAcQ&sclient=gws-wiz-serp"
+               }, {
+                  "date_added": "13398733213000000",
+                  "date_last_used": "0",
+                  "guid": "8841ec42-482a-44b2-82a0-8e1429698f12",
+                  "id": "42",
+                  "name": "la minute excel",
+                  "type": "url",
+                  "url": "https://www.youtube.com/feed/subscriptions/UCnkc7xcmRpB1bViaY_qA89w"
+               }, {
+                  "date_added": "13398733330000000",
+                  "date_last_used": "0",
+                  "guid": "f440a75b-246d-4398-bd67-c9428dff6b0c",
+                  "id": "43",
+                  "meta_info": {
+                     "ThemeColor": "4196475169"
+                  },
+                  "name": "Docteur excel",
+                  "type": "url",
+                  "url": "https://www.youtube.com/feed/subscriptions/UCTowJtUSbFQe_pk4dUiH5CQ"
+               }, {
+                  "date_added": "13398953334000000",
+                  "date_last_used": "0",
+                  "guid": "02a2d20f-8d7b-4227-818c-5b04c5f785b1",
+                  "id": "44",
+                  "name": "Cours sur HTML",
+                  "type": "url",
+                  "url": "https://www.netacad.com/launch?id=e7fae3da-0602-4ebf-8e27-ccc65341e4b9&tab=curriculum&view=4f583435-edb9-5ea4-b5f2-923b8652c360"
+               }, {
+                  "date_added": "13399328799000000",
+                  "date_last_used": "0",
+                  "guid": "c1fef4a1-2a1f-48d4-b24d-ba2a6d7b9134",
+                  "id": "45",
+                  "name": "Actualités et analyses Apple | TechCrunch",
+                  "type": "url",
+                  "url": "https://techcrunch.com/tag/apple/"
+               }, {
+                  "date_added": "13399841148000000",
+                  "date_last_used": "0",
+                  "guid": "06d47b70-6f2f-4077-acb1-1ecc54a96e07",
+                  "id": "46",
+                  "name": "Monkeytype | A minimalistic, customizable typing test",
+                  "type": "url",
+                  "url": "https://monkeytype.com/"
+               }, {
+                  "date_added": "13399846704000000",
+                  "date_last_used": "0",
+                  "guid": "5fe96283-933e-461e-b910-4ff1aa62f6f9",
+                  "id": "47",
+                  "name": "Exercice de dactylographie - 5 - AgileFingers",
+                  "type": "url",
+                  "url": "https://agilefingers.com/fr/cours/exercice-5/sommaire"
+               }, {
+                  "date_added": "13399849610000000",
+                  "date_last_used": "0",
+                  "guid": "56d7d155-c97f-4be8-a3f4-2261b94d3ca5",
+                  "id": "48",
+                  "name": "Entraînement",
+                  "type": "url",
+                  "url": "https://www.keybr.com/fr"
+               }, {
+                  "date_added": "13400248962000000",
+                  "date_last_used": "0",
+                  "guid": "5021fd59-4c37-4b1e-bb35-176fa5dde3fa",
+                  "id": "49",
+                  "name": "MODULE 02 - IDEATION - Google Drive",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/folders/1XWHtkg4YmMrroEon_s4lzCbPRTRp5a88"
+               }, {
+                  "date_added": "13403101481000000",
+                  "date_last_used": "0",
+                  "guid": "c1a7476b-997e-4ce9-9ab6-7ca5187602f3",
+                  "id": "50",
+                  "name": "Tirez un maximum de ce cours - OpenClassrooms",
+                  "type": "url",
+                  "url": "https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/8061253-tirez-un-maximum-de-ce-cours-70"
+               }, {
+                  "date_added": "13403698238000000",
+                  "date_last_used": "0",
+                  "guid": "d2b384ea-43af-4aab-8e13-1f70a44064fb",
+                  "id": "51",
+                  "name": "Element",
+                  "type": "url",
+                  "url": "https://universalon-jokko.unchk.sn/#/home"
+               }, {
+                  "date_added": "13403868447000000",
+                  "date_last_used": "0",
+                  "guid": "fea48c8c-701d-4884-b884-dd37e2cd7058",
+                  "id": "52",
+                  "name": "Polaris Office Web",
+                  "type": "url",
+                  "url": "https://sheet.polarisoffice.com/?utm_source=poservice&utm_medium=pc&utm_campaign=addbookmark"
+               }, {
+                  "date_added": "13403868972000000",
+                  "date_last_used": "0",
+                  "guid": "90e4c194-923a-4c40-903e-8379f7bb3d4f",
+                  "id": "53",
+                  "name": "And how would you like to work?",
+                  "type": "url",
+                  "url": "https://www.upwork.com/nx/create-profile/work-preference"
+               }, {
+                  "date_added": "13403956850000000",
+                  "date_last_used": "0",
+                  "guid": "4340fa34-5487-4e9d-bfb8-fd353f329e90",
+                  "id": "54",
+                  "name": "Cours : Marketing Digital",
+                  "type": "url",
+                  "url": "https://formation.force-n.sn/course/view.php?id=1904"
+               }, {
+                  "date_added": "13404075988000000",
+                  "date_last_used": "0",
+                  "guid": "33b0ba2b-0aef-492d-b6cb-870bdc53c07b",
+                  "id": "55",
+                  "name": "Introduction au HTML",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/html/html_intro.asp"
+               }, {
+                  "date_added": "13404683814000000",
+                  "date_last_used": "0",
+                  "guid": "d721aa46-d70e-4f6f-8953-1d954fd7626a",
+                  "id": "56",
+                  "name": "Avant de commencer",
+                  "type": "url",
+                  "url": "https://www.developpeurlibre.com/view/courses/formation-gratuite-4/2890035-default-section/9476290-avant-de-commencer"
+               }, {
+                  "date_added": "13404832028000000",
+                  "date_last_used": "0",
+                  "guid": "101993e3-75ec-43ca-9316-747ba041a7f1",
+                  "id": "57",
+                  "name": "billiejoe_javascript_fiches.pdf",
+                  "type": "url",
+                  "url": "https://profdoc.iddocs.fr/IMG/pdf/billiejoe_javascript_fiches.pdf?utm_source=chatgpt.com"
+               }, {
+                  "date_added": "13404832085000000",
+                  "date_last_used": "0",
+                  "guid": "55996095-6258-481d-8abc-c28d69789eff",
+                  "id": "58",
+                  "name": "maths-dnm-Javascript.pdf",
+                  "type": "url",
+                  "url": "https://lyceealaincolas.fr/wp-content/uploads/2022/09/maths-dnm-Javascript.pdf?utm_source=chatgpt.com"
+               }, {
+                  "date_added": "13405641881000000",
+                  "date_last_used": "0",
+                  "guid": "71e354f3-bd15-4af1-8d53-cb1a429a60bd",
+                  "id": "59",
+                  "name": "Learn to code | Mimo: Python, JavaScript, HTML, CSS, and more",
+                  "type": "url",
+                  "url": "https://mimo.org/web/236/section/0"
+               }, {
+                  "date_added": "13405654177000000",
+                  "date_last_used": "0",
+                  "guid": "bbc2ca6c-0222-445f-8078-1df0f40c836a",
+                  "id": "60",
+                  "name": "Découvrez l'intérêt des algorithmes - OpenClassrooms",
+                  "type": "url",
+                  "url": "https://openclassrooms.com/fr/courses/7527306-decouvrez-le-fonctionnement-des-algorithmes-1/7758926-decouvrez-linteret-des-algorithmes-1"
+               }, {
+                  "date_added": "13406907122000000",
+                  "date_last_used": "0",
+                  "guid": "025a2533-ae0f-4666-a4c9-0857689094c1",
+                  "id": "61",
+                  "name": "BeginJavaScript [free] • 👋 Hello",
+                  "type": "url",
+                  "url": "https://codeline.app/cdly/courses/bj-free/lessons/WKomRGTI98U"
+               }, {
+                  "date_added": "13407026282000000",
+                  "date_last_used": "0",
+                  "guid": "328246f5-28c0-40bf-859f-a7fbb7229817",
+                  "id": "62",
+                  "name": "BeginJavaScript [free] • ✨ Les variables",
+                  "type": "url",
+                  "url": "https://codeline.app/cdly/courses/bj-free/lessons/d0hzinFBgoV"
+               }, {
+                  "date_added": "13407026554000000",
+                  "date_last_used": "0",
+                  "guid": "3c80b372-95a3-42d1-8206-fe10fd217ece",
+                  "id": "63",
+                  "name": "Formations Python de Docstring",
+                  "type": "url",
+                  "url": "https://www.docstring.fr/formations/"
+               }, {
+                  "date_added": "13408247093000000",
+                  "date_last_used": "0",
+                  "guid": "726b736f-f50a-45f8-8529-0c561c01bb64",
+                  "id": "64",
+                  "name": "Robot-Bloc-Notes - Éditeur de projet - Apps Script",
+                  "type": "url",
+                  "url": "https://script.google.com/home/projects/1TAkENL2oyy7cRxOgHmPs_tmnxNSd5BRx7933FwkeCT-X-oU2DuAile0J/edit"
+               }, {
+                  "date_added": "13409526814000000",
+                  "date_last_used": "0",
+                  "guid": "ccba73ad-fc0c-4abe-9ccf-b49e7315ff7e",
+                  "id": "65",
+                  "name": "The #1 JavaScript Tutorial for Beginners // Edabit",
+                  "type": "url",
+                  "url": "https://edabit.com/tutorial/javascript"
+               }, {
+                  "date_added": "13410456823000000",
+                  "date_last_used": "0",
+                  "guid": "0a268085-6e2c-44a4-b28e-3b4a130cfffe",
+                  "id": "66",
+                  "name": "Films gratuits",
+                  "type": "url",
+                  "url": "https://lok-lok.cc/spa/videoPlayPage/movies/condor-version-francaise-MqRWajOq7G7?id=6445275996320401216&type=/movie/detail&lang=en"
+               }, {
+                  "date_added": "13412614297000000",
+                  "date_last_used": "0",
+                  "guid": "f8a3fe86-b803-41bb-b576-3fe63b42c034",
+                  "id": "67",
+                  "name": "Générateur et éditeur d'images IA : la meilleure plateforme tout-en-un pour la génération et l'édition d'images",
+                  "type": "url",
+                  "url": "https://deevid.ai/ai-image-generator?utm_id=nano-banana2&utm_source=google&utm_medium=cpc&utm_campaign=s-im-model-leonardo&utm_term=leonardo&utm_content=pc&gad_source=1&gad_campaignid=23253465729&gbraid=0AAAAAq898mNU_XqpsxAKjaytMWYLL0Emz&gclid=Cj0KCQiAsY3LBhCwARIsAF6O6Xhraazgdaj3Kcrpol_MPdn7_bg8gv0aKdbBkbytMtyqEmVnsxlKqAgaAoqaEALw_wcB"
+               }, {
+                  "date_added": "13412957556000000",
+                  "date_last_used": "0",
+                  "guid": "063ba294-2d16-413e-a048-5d75f14de8c0",
+                  "id": "68",
+                  "name": "Gestionnaire de Cotisations Sadaqa",
+                  "type": "url",
+                  "url": "https://gestionnaire-cotisation.netlify.app/"
+               }, {
+                  "date_added": "13412965084000000",
+                  "date_last_used": "0",
+                  "guid": "6a62b2aa-5516-4722-95e5-0f03e37e6321",
+                  "id": "69",
+                  "name": "Gestionnaire Sadaqa Jariyah",
+                  "type": "url",
+                  "url": "https://gestionnaire-cotisation-version1.netlify.app/"
+               }, {
+                  "date_added": "13416957312000000",
+                  "date_last_used": "0",
+                  "guid": "053d831b-939f-4623-96f7-84cd6d496de2",
+                  "id": "70",
+                  "name": "Formation AI SaaS gratuite • Commence ici !",
+                  "type": "url",
+                  "url": "https://codeline.app/cdly/courses/aibuilderfree/lessons/0X26WUs12oZ"
+               }, {
+                  "date_added": "13417742140000000",
+                  "date_last_used": "0",
+                  "guid": "2e1b036c-3fdb-402d-82a4-2c3124e4a059",
+                  "id": "71",
+                  "name": "Documentation - Atessa",
+                  "type": "url",
+                  "url": "https://atessa.top/user/docs"
+               }, {
+                  "date_added": "13423256881000000",
+                  "date_last_used": "0",
+                  "guid": "dd2b70b7-d22e-495e-af37-4a0c737e8c62",
+                  "id": "72",
+                  "name": "Meet – yub-srpv-ymo",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=&sourceid=chrome&ie=UTF-8&udm=50&aep=48&cud=0&qsubts=1778783281702&source=chrome.crn.obic"
+               } ],
+               "date_added": "13426110103538967",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "a20ce7f4-ad14-4a11-b92b-4d527502c535",
+               "id": "40",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Barre de favoris",
+               "type": "folder"
+            } ],
+            "date_added": "13426110103536459",
+            "date_last_used": "0",
+            "date_modified": "13426110103536459",
+            "guid": "502b8e79-2f92-4ae8-b2f7-ed0c027eaca6",
+            "id": "39",
+            "name": "Importés",
+            "type": "folder"
+         } ],
+         "date_added": "13426075439777643",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Signets",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13426075439777643",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13426075439777643",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris d'appareils mobiles",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13426075439777643",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "9f32a0fb-bfd9-5032-be46-07afe4a25400",
+         "id": "4",
+         "name": "Corbeille",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CoIBCggIiIECEgI3OBIAGlhkKzR6S3VaclFBTU5wQk1RbEVDVVJLc2tIWE53NzJuNC9zQ1RBSHREd3U5UnBaZnBGbWxkK0grRlFZakdpZ3l4NnkvTWZBT055Y0VreTMxc3BtbS9Kdz09Khg3WFZCN2xXc0JzdVhZRVVIVUxsNG53PT1IAxJoCAMSZAocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRITPFM+c3luY2VkX2Jvb2ttYXJrcxgAIAAoADAEOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASngEIMBKZAQocbDVsT0ZLYlZQdTNxbHh0b2phTmZLUlMyQ0M0PRIfPEM+bDVsT0ZLYlZQdTNxbHh0b2phTmZLUlMyQ0M0PRgAIAAoADAkOLagsef0M0C2oLHn9DNKHEtVNmwwekFRT1N2T2ZyS2g4U253R243SzRTST1aHyId/i9XT3VPRjluZ3ZwTWtIQkxwK2dYejRuQjduUT1lAAAAABKgAQg8EpsBChxHRnpJVkd1Mk1WQllKSWN4M1VaUXlNdTJFbHM9Eh88Qz5HRnpJVkd1Mk1WQllKSWN4M1VaUXlNdTJFbHM9GAAgACgAMDA4t6Cx5/QzQLegsef0M0ocWDNmdExGL1FMaWpWRG40YjBxUHNTalNyMUNVPVohIh///+43K2JPYzI2b3BRN2VzVkJMSEkzeFNHRjlSRGs9ZQAAAAASoAEIQhKbAQocemRsTHpVL2gzU2JPUUNXbzRlTjEvTzFnbllnPRIfPEM+emRsTHpVL2gzU2JPUUNXbzRlTjEvTzFnbllnPRgAIAAoADA2OLegsef0M0C3oLHn9DNKHEVHcmdQN1BNUGpJeWFNaVROVkJaZkVVcHMydz1aISIf////djVYTk4rc1ZYRHBiT3J3SXNaME1qeE9tL3E0PWUAAAAAEqABCDsSmwEKHHB6KzV1L21JTkRCOSsxa1pwRkNvZUZvb1BZcz0SHzxDPnB6KzV1L21JTkRCOSsxa1pwRkNvZUZvb1BZcz0YACAAKAAwLzi3oLHn9DNAt6Cx5/QzShxVYlZPU25JZ3lPUUNSTjl4VkovOW1oaUNMZkE9WiEiH///3U5xTVlCMDJ2ZnZlbmpvSENQR1Z5ZzBGZ0ZHZz1lAAAAABKhAQhHEpwBChxBSVl2QURxcDh0YUNjdEM4MGhINlJiamJWbE09Eh88Qz5BSVl2QURxcDh0YUNjdEM4MGhINlJiamJWbE09GAAgACgAMDs4t6Cx5/QzQLegsef0M0ocVEM1aVg2ZnY1cDlDV054UFVsczk5b1NuL0ZJPVoiIiD////3cWxnUlFZZ2dyOXljMzFCcjhLSDhKTVN4OEU4PWUAAAAAEp4BCCUSmQEKHGxtSUFjazdUTVBYVkJBKzgzeERJVWJWWWVyWT0SHzxDPmxtSUFjazdUTVBYVkJBKzgzeERJVWJWWWVyWT0YACAAKAAwRzi1oLHn9DNAtaCx5/QzShxKVHR0ZmNFTnFPOE04NzZ4cXR6Z2krOXFPcXc9Wh8iHe5QWG5mZlZUUllldlJXMjljQ1htbEpVTmRjZ3c9ZXydyt0SoQEIRBKcAQocUDQvVXM4cU5NZzh6LzJBcm1aTWk5Z2FzKzlZPRIfPEM+UDQvVXM4cU5NZzh6LzJBcm1aTWk5Z2FzKzlZPRgAIAAoADA4OLegsef0M0C3oLHn9DNKHFJIQUJsemZuZ0QzRVFvSEswYnhOU0o2K3RuTT1aIiIg////uy9IQTNObmlacksvUFVMNnhOeWlQS1diNTQ5WT1lAAAAABKfAQg1EpoBChxYOTNka0M0UjN2aDRFYjZKVCszWk9OaDdlMVE9Eh88Qz5YOTNka0M0UjN2aDRFYjZKVCszWk9OaDdlMVE9GAAgACgAMCk4tqCx5/QzQLagsef0M0ocK3J6QVN1dnpNMUttdWh2Q2FmcTZvOEcyMlVJPVogIh7/9ndpbVd5S01yalRWUU9ETHViRTR2TTE2SGt5UT1lAAAAABKfAQg0EpoBChxtY3pOd0JwZVhhUFBqVE5VY0lWdno1L0xxZWc9Eh88Qz5tY3pOd0JwZVhhUFBqVE5VY0lWdno1L0xxZWc9GAAgACgAMCg4tqCx5/QzQLagsef0M0ocRTAxTmNObHMrbHR2UDJUeGF0bEE2SithSEU4PVogIh7/7XovdUc2cE9GTFlSVGtheGR5OG1BL0VPSkZMVT1lAAAAABKeAQguEpkBChw5aXA5RlNvUTV0RFBicXNDVjRaVnhPcUFhcDA9Eh88Qz45aXA5RlNvUTV0RFBicXNDVjRaVnhPcUFhcDA9GAAgACgAMCI4tqCx5/QzQLagsef0M0ocdnI4V1F4QnZHeU9HVngyOGhjT0pBMkVVM1VzPVofIh37Yk5iRzJ0UmxOdFFPRSsrZHo1Y2hMc2JKRXQ4PWUAAAAAEqABCEMSmwEKHFE2akxmVVZIQlkzL0h1MlZxZXZBVGdDTFpmUT0SHzxDPlE2akxmVVZIQlkzL0h1MlZxZXZBVGdDTFpmUT0YACAAKAAwNzi3oLHn9DNAt6Cx5/QzShxnbkdBbFpwb00vVDhyWmNSb1FtekVCZ1E4dzg9WiEiH////3dLbDdVRGh5SkVLVUlCbVRhYkp6U001NEtqMD1lAAAAABKfAQg5EpoBChx1bTNVNGxmUzVNMHphNEFYR3IrMENZMmZURVU9Eh88Qz51bTNVNGxmUzVNMHphNEFYR3IrMENZMmZURVU9GAAgACgAMC04tqCx5/QzQLagsef0M0ocUHFhaGlKM1h0dFQ4OHlrVlYvUjlVbThOeUVJPVogIh7//3dkMXEvaUVFeVM5ZjhvSUROV0ZNY0krWDRIQT1lAAAAABKgAQhAEpsBChxrUEZmcWxRaXpnU1pZSkxWcHR1cGtYK3NnSXM9Eh88Qz5rUEZmcWxRaXpnU1pZSkxWcHR1cGtYK3NnSXM9GAAgACgAMDQ4t6Cx5/QzQLegsef0M0ocMDlRR2J1dzd5QnJqU3E3S2QrMFVMT1kybWNJPVohIh////5GRGVZRmovVW5xbXlvci9UTWVRdUlUMHYyVnM9ZQAAAAASngEIJxKZAQocVXVhQVJzQ1BwRzY2RktMSmMzWVlQbml4LzhFPRIfPEM+VXVhQVJzQ1BwRzY2RktMSmMzWVlQbml4LzhFPRgAIAAoADAbOLagsef0M0C2oLHn9DNKHEI5RXRWZUl4bVZqM0cxUnJsMlp3RCtONkxxRT1aHyId7U1Ld0ZEa0tGYjU0a05lL2ZkbjBBa1k5K2hWaz1lAAAAABKgAQg9EpsBChxNR3dqcUIyTE13T0tVVHpqODd3OUJTajM1Vzg9Eh88Qz5NR3dqcUIyTE13T0tVVHpqODd3OUJTajM1Vzg9GAAgACgAMDE4t6Cx5/QzQLegsef0M0ocL2kvKzFoRXR3U1FRUURRaGRpSlBKUTNSd1h3PVohIh////dEYnFGOFU2aUc1UFNJMTVtd0FkeXlnQVhzRDg9ZQAAAAASnwEIMxKaAQocQzF5eHFhbzlwTWlvR3ZTL3dtN1pBMjhhWWhnPRIfPEM+QzF5eHFhbzlwTWlvR3ZTL3dtN1pBMjhhWWhnPRgAIAAoADAnOLagsef0M0C2oLHn9DNKHEJYa3NlOWFPTmhDWDRtSFZTTzI1dGlqazVOOD1aICIe/9tKMFJ2TU1oL2RuZGJsVm01QzI5Z2h3L0EwYjQ9ZQAAAAASnQEIKBKYAQocWENLQU9PQkJjK3BEeTBOUE5wWUszY2NIUGZnPRIfPEM+WENLQU9PQkJjK3BEeTBOUE5wWUszY2NIUGZnPRgAIAAoADBKOLagsef0M0C2oLHn9DNKHGM3WmFjaXJDZDg0cTdMWUFVYXptNWlBZkJ0Zz1aHiIcWXVjeVViSkFJbzkzRU1IOTVrdy9RaHpBa2dVPWUAAAAAEp4BCCoSmQEKHGw5U243L2dpZnc0OU9YTHgvcjRha1dCQ2loWT0SHzxDPmw5U243L2dpZnc0OU9YTHgvcjRha1dCQ2loWT0YACAAKAAwHji2oLHn9DNAtqCx5/QzShxDNUpoNzlZU0hSdHVMMVNHR3RPcHMrRHlLdmc9Wh8iHbwrUmZIQlgwN2R5YnUyQ1NQRWFvUjlhMGJoclE9ZQAAAAASoQEISBKcAQocd01saFpxYnM1Z0JKRDA4aElpOHU2cDUrdXdzPRIfPEM+d01saFpxYnM1Z0JKRDA4aElpOHU2cDUrdXdzPRgAIAAoADA8OLegsef0M0C3oLHn9DNKHGo2UEdEYWRHT09XU3JrY2tEa1FWWG5PY2w0WT1aIiIg////+zd2TEx3a0QxWVltRzhrWGtnQmdaZW1oREY3Zz1lAAAAABKdAQgpEpgBChxKaFRvRzQ4RWFDdDl1T2pUaHVFdmFGQzNNems9Eh88Qz5KaFRvRzQ4RWFDdDl1T2pUaHVFdmFGQzNNems9GAAgACgAMB04tqCx5/QzQLagsef0M0ocVDByY1REaTRidGhoL2JMbTVWb2htUEtwTmRrPVoeIhx5dEkwbVBpNE5sSy8yNGJidGxZMS9XTVFrMXM9ZQAAAAASoAEIOhKbAQocN2tPdnJ3Qm53eGFGcTUvNSt4RVRBNUxJcnNVPRIfPEM+N2tPdnJ3Qm53eGFGcTUvNSt4RVRBNUxJcnNVPRgAIAAoADAuOLagsef0M0C2oLHn9DNKHGJjVlNGbzRGd0hqdiszaDJCeGpMUk5hYy9xOD1aISIf//+7b3FyRHZsUVpSQS9YZHhNY0dnY0FoRDlFdldFPWUAAAAAEp4BCA4SmQEKHFZ3VXdCeVFMTG9pMk9tYXlNWSsrQkpZRFBZTT0SHzxDPlZ3VXdCeVFMTG9pMk9tYXlNWSsrQkpZRFBZTT0YACAAKAAwDDi0oLHn9DNAtKCx5/QzShxwRmErKzhLM1NMQVJ3TDYrUGVleHNNSUZ5QkU9Wh8iHftzY0lWOW9WVjdRUnczS0pPUTl0aUIrSHJSWTg9Zey4r5ISngEIERKZAQocQ04zb3g2MW00RDJhTWxQWGUyMXJSTTc2TXhnPRIfPEM+Q04zb3g2MW00RDJhTWxQWGUyMXJSTTc2TXhnPRgAIAAoADAXOLSgsef0M0C0oLHn9DNKHENpaThrVTRVMm9zVVl2dUxZckEzblQ3MXpoUT1aHyIdvFBkMmo3dGRCdmVibnhST1dGUk9mcU01L1pYcz1lE+JHUhKeAQgkEpkBChxWSGxlbk1tei83T3YvdlZhc3VLNFMrQzQxdm89Eh88Qz5WSGxlbk1tei83T3YvdlZhc3VLNFMrQzQxdm89GAAgACgAMEY4taCx5/QzQLWgsef0M0ocN0hiTnRJNUFqcjg5MVA2akxOa21HYmtETmE4PVofIh3cNzBXR0lCall2QVRYcHhGSnRJRjdXdkdGVVYwPWUT4kdSEp4BCAcSmQEKHHRDeGtXMVRheTZIZjRndVk4TWY4MktHc2pLND0SHzxDPnRDeGtXMVRheTZIZjRndVk4TWY4MktHc2pLND0YACAAKAAwDTi0oLHn9DNAtKCx5/QzShw0dHlmQWhSUHUvbzZYYU5SOWF2cVVtT091d0E9Wh8iHf1HL2VNRk1OeWlOd2FyditwYkkzd2d1UDBGL0U9ZQAAAAASnQEIHBKYAQocUklXZFBxUksxc0ppbTMzdURtUHZPWmVGNndvPRIfPEM+UklXZFBxUksxc0ppbTMzdURtUHZPWmVGNndvPRgAIAAoADBLOLWgsef0M0C1oLHn9DNKHFZla3Ruc1NGb3NDSFRsMEl4NkcveFVVeWhkND1aHiIcQ0dtTVJuRVE4T0w1TkFHbVllcmdwTCtjV253PWUAAAAAEp4BCCMSmQEKHGtiQ2hGSFBNRkVKdkF0a2tPRE56d1JNY28yRT0SHzxDPmtiQ2hGSFBNRkVKdkF0a2tPRE56d1JNY28yRT0YACAAKAAwRTi1oLHn9DNAtaCx5/QzShx2MllWcTJITzl4a0s2UzZyTjY1K3ZQM2tvdVE9Wh8iHblpYVhUZUdyV2J2YWhtSEdjQWVua0VwMkN6SzQ9ZeOSeYcSngEIFxKZAQocWnJWbDhSb2RWYUcrOWlvb1VMSWgwR2RER09nPRIfPEM+WnJWbDhSb2RWYUcrOWlvb1VMSWgwR2RER09nPRgAIAAoADAROLWgsef0M0C1oLHn9DNKHFZad2FzamZqZ1dRMXNQU2h4cjRYSXd5UzVibz1aHyIdu0JrYndCZXc4TGdVRWJkM2tVUkxBMlNMS0R2TT1lE+suUxKfAQg2EpoBChxkUitFYzlaM1p3TTBobW90SUQvdHJiZHlsUjg9Eh88Qz5kUitFYzlaM1p3TTBobW90SUQvdHJiZHlsUjg9GAAgACgAMCo4tqCx5/QzQLagsef0M0ocb1JFbmZXcFBMallJZXpjNThDclVHMDIyRXRVPVogIh7/+2pObmNiTGpubWRmZ1doY1JZM3JIRWQydCtVND1lAAAAABKdAQghEpgBChxWN3hEeTl0WXRyWDhQQmVxRHovT2k2MGNxaHc9Eh88Qz5WN3hEeTl0WXRyWDhQQmVxRHovT2k2MGNxaHc9GAAgACgAMEM4taCx5/QzQLWgsef0M0ocVnRGV2wva3R4eHhxRC94T25TV2FLcHpDK2xNPVoeIhxsd1FhWXc3YUR6cEFXaU0vd0F2U1JYSDhkc0U9ZfiUZMASnQEIHRKYAQocMzkyVW92eEJ0VHZrRzlWNTVZUmhaVEp0aUdZPRIfPEM+MzkyVW92eEJ0VHZrRzlWNTVZUmhaVEp0aUdZPRgAIAAoADA/OLWgsef0M0C1oLHn9DNKHE4xUkZuOEVQKzZ6SzNDWTAzNkZqTUlWZXZTVT1aHiIcbGgzVUZBa255d3RtRXZOeEk4b2NwanI0a1hBPWVMhM0CEp4BCBUSmQEKHHMrMUFzU0NocCtZNzhNb21MVmJyRUNZd25sYz0SHzxDPnMrMUFzU0NocCtZNzhNb21MVmJyRUNZd25sYz0YACAAKAAwDzi0oLHn9DNAtKCx5/QzShxSUHpMMkdDVEVkclVmOWdwR0VNZUNKVk5sWms9Wh8iHbdoVmhBeUNnbThZNC9wcUVTdjFlcFNITGN5b3c9ZQAAAAASnQEIIhKYAQocRmJQTklOOVhCU1BtQ3RVZVRJcEpQdzViMGtBPRIfPEM+RmJQTklOOVhCU1BtQ3RVZVRJcEpQdzViMGtBPRgAIAAoADBEOLWgsef0M0C1oLHn9DNKHExURlBhTlFpSldmcGJtMGtXbytzWUxGUlJ5QT1aHiIcc00xcWN0R1ZmWFR0ZVgwcnZvdmVXVCtTN3NRPWXI8PYfEp0BCBYSmAEKHFFqdmdrUGtnVmJrN2M0d0VQZy9wbDJvcWpuTT0SHzxDPlFqdmdrUGtnVmJrN2M0d0VQZy9wbDJvcWpuTT0YACAAKAAwEDi0oLHn9DNAtKCx5/QzShxoOGxtQXU0cGpoaENvM3N3TEtGeHlyQURYNUE9Wh4iHHZySWFINFNZSFJiR1U4RGlVSjh1eHBNWjJTYz1l7dDj4BKeAQgxEpkBChxDRUphcmhvRDZQeUEweHpzTUZUUnZKRWFEd1E9Eh88Qz5DRUphcmhvRDZQeUEweHpzTUZUUnZKRWFEd1E9GAAgACgAMCU4tqCx5/QzQLagsef0M0ocbk1ZUVAvamZmbmRLTnhnSzJ6YkdDUUVkaGZZPVofIh3/blExMi9SWTAxcm9lUXJzQ0tXd09HamlJcG5JPWUAAAAAEmQIARJgChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Eg88Uz5ib29rbWFya19iYXIYACAAKAAwAjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEmcIAhJjChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EhI8Uz5vdGhlcl9ib29rbWFya3MYACAAKAAwAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEp8BCDgSmgEKHGNaSlJMNVZqR0dtaEJyRTF5ckZ2b3hlZ0JVST0SHzxDPmNaSlJMNVZqR0dtaEJyRTF5ckZ2b3hlZ0JVST0YACAAKAAwLDi2oLHn9DNAtqCx5/QzShxkMUFmeml1WkNxNlVvMnhKVXVJVTNzMDFlS0E9WiAiHv/+bE00K3U5TU9jbDJwVmJTUUFjblJTNGgrWjZJPWUAAAAAEp4BCBoSmQEKHDFhWWJWNDBOcXBSa2xaMmhSbHpHdXJiWlJhST0SHzxDPjFhWWJWNDBOcXBSa2xaMmhSbHpHdXJiWlJhST0YACAAKAAwFDi1oLHn9DNAtaCx5/QzShxJbWxoZ1VFckRwWEs1NHZ4U1dPZ1hoa3VyT0k9Wh8iHfdXblJQM0xtRjd5cFovaE1EOHRVaWhyUnd0bVk9ZZ1GS/8SoAEIPxKbAQocb1FUY3RCWmZoaWx5RC90aGFEdmh5THJVeUxNPRIfPEM+b1FUY3RCWmZoaWx5RC90aGFEdmh5THJVeUxNPRgAIAEoATBOOLegsef0M0C7/If3kzRKHDU4YXFpUzQweDVMRW90Rk13NkpacFRpdnhmTT1aISIf///9bUg1cDVoV1d2K3Q4eGdVZWtIVEd1WmcwdU1vPWViyR1pEp4BCAwSmQEKHDVOUVBCRFRFbllWU1dQRXN2V3pvUHJYOHFYWT0SHzxDPjVOUVBCRFRFbllWU1dQRXN2V3pvUHJYOHFYWT0YACAAKAAwCji0oLHn9DNAtKCx5/QzShxFL1pIWHVsVjV5RXlpNzNmTEc3blg0ekhBenc9Wh8iHexRV2lPN1MxNjdpblZ6UzVvNGpzRzByckNqcjQ9ZUyEzQISngEIJhKZAQoccWJ0ZitxOFB5TmNuQURQdUxkNUVSNUxJc1RBPRIfPEM+cWJ0ZitxOFB5TmNuQURQdUxkNUVSNUxJc1RBPRgAIAAoADBIOLWgsef0M0C1oLHn9DNKHGc0SmlsMExpNWpyWHB4bHh2WS9kcDF0Slc5az1aHyId93kyZkpFUXhqTGExdFZUT2dCbVhCRTRxRjM3Yz1lNQB9QhKeAQgYEpkBChw0MTdrdEh2VWVUb3kyUGwrUDJXVEsxdlFaVk09Eh88Qz40MTdrdEh2VWVUb3kyUGwrUDJXVEsxdlFaVk09GAAgACgAMBI4taCx5/QzQLWgsef0M0ocQ1BmOFN4azVibHdBNVVRL3pmNmh5aTZ2cTU4PVofIh3dRmVYVEpmWklJTDZwSE9VOFF1dTNTM052K2FRPWUs9GhdEp4BCCwSmQEKHDBSdGZ4VWt5bVJhVlNTTkpPWFh5M2VNditSVT0SHzxDPjBSdGZ4VWt5bVJhVlNTTkpPWFh5M2VNditSVT0YACAAKAAwIDi2oLHn9DNAtqCx5/QzShxFaWZPZm1IRW1pWS9Ba2lJdWsycGRoR2hGL2s9Wh8iHe9ZcEx2T1lvOE4yS01SSk9EUXJTaWY5Zi80bHM9ZQAAAAASngEIFBKZAQocL2dHUHU2UU9vWGM4NEFyTEtvcVNsekRyNG5RPRIfPEM+L2dHUHU2UU9vWGM4NEFyTEtvcVNsekRyNG5RPRgAIAAoADAaOLSgsef0M0C0oLHn9DNKHEdKK2t0YnhGdXV5LzRDREJqYUl4V0JuMFQvVT1aHyId90t4TG9pWEdrM09wQTVNUG9ZQ0x6OG1SZUFKND1lfJ3K3RKdAQgJEpgBChxuWGQ3aWJWZE1PZCtGektGeksvNXkxYUd2YU09Eh88Qz5uWGQ3aWJWZE1PZCtGektGeksvNXkxYUd2YU09GAAgACgAMAc4s6Cx5/QzQLOgsef0M0occmJENVNjdUZEV2g3bXhaZzdTTHZBdnpNN004PVoeIhxjRGtya1pHV2d0amdEM0RQWWlNaDFhQWoxMVk9ZQtqoHYSngEICBKZAQocVjhVOEZSTlNxNndQUnhQR1Vsa1l6Kzh4eHdBPRIfPEM+VjhVOEZSTlNxNndQUnhQR1Vsa1l6Kzh4eHdBPRgAIAAoADAOOLSgsef0M0C0oLHn9DNKHDZEdkExeWxWMlhLemVFZGRpekdGWEJwbU1MUT1aHyId/mIvV3RITUdESFRQdDJYc2hPbER2cy9FWHk3QT1lAAAAABKeAQgKEpkBChxWZmdlT3p4T2xZMEFpSzNWV0FVTUVGTlJPRUU9Eh88Qz5WZmdlT3p4T2xZMEFpSzNWV0FVTUVGTlJPRUU9GAAgACgAMAg4tKCx5/QzQLSgsef0M0ocL3RjUmRwcVpxbkU1Y1d6YUFrd2F4aDBWVkhNPVofIh2xOHFjRFN3RW9iQko0M0p2QkV5b2JEUTg2WlQwPWWcUpACEp4BCC0SmQEKHGpwL3grT0l3Nzk4MXRhSDE1Skg0elNlUXd6RT0SHzxDPmpwL3grT0l3Nzk4MXRhSDE1Skg0elNlUXd6RT0YACAAKAAwITi2oLHn9DNAtqCx5/QzShx4cE9DYlJiQ24rYzNEc096Q3JYRWpjWlRzNGM9Wh8iHfdjVDVVUE95VmdRL1VsRjgzcFh1S3pyTFJ3NlE9ZQAAAAASoAEIQRKbAQocdWdpeXFlTnhSTHVFWGJxWUw5eUNwQVhzWFRRPRIfPEM+dWdpeXFlTnhSTHVFWGJxWUw5eUNwQVhzWFRRPRgAIAAoADA1OLegsef0M0C3oLHn9DNKHFRJck9udGFScXZoQ2VWb2tiejczSU5YZ29Cbz1aISIf////VFNYaDF2OGtvVEs4NWlMVkd5TFgyRjV6TmdBPWUAAAAAEqEBCEUSnAEKHEEwWURMTHpVbHhYZXp5SWVhaWtzT3liN0dEcz0SHzxDPkEwWURMTHpVbHhYZXp5SWVhaWtzT3liN0dEcz0YACAAKAAwOTi3oLHn9DNAt6Cx5/QzShxrNVJZczBlN0IxR0N3Q2VlMndudDhxNUJhRkk9WiIiIP///91ZUFNyUjNKWmkrcmU3WUROTElDclB3VXpyNDQ9ZQAAAAASngEIHhKZAQocQzU0VVV2bEc3NDhlbTc1bFdFWU9hNjQ0SUpNPRIfPEM+QzU0VVV2bEc3NDhlbTc1bFdFWU9hNjQ0SUpNPRgAIAAoADBAOLWgsef0M0C1oLHn9DNKHGhjRWh0Ti9FUjRLazJuQm5Ga1JGdGNHSmFaOD1aHyIdtkQzOWhVYmFFdnBCMWtnV0Z0aEJHS2VNL1ZaYz1lDISeQBKeAQgbEpkBChw0aDNUbmNyWkovK0dTcTVqNE1qdTNIVnB5Vzg9Eh88Qz40aDNUbmNyWkovK0dTcTVqNE1qdTNIVnB5Vzg9GAAgACgAMD04taCx5/QzQLWgsef0M0ocQklnUkg5Q2doRStzQ1N2K1ROa09sQTlES2ljPVofIh3bbVh3VGVwdFJZVXFmWTlla3BmcFFBODRVSzRNPWUAAAAAEqEBCEYSnAEKHFRtVThtOVpkcFRVcnBOd05GQkxremZkRnZzbz0SHzxDPlRtVThtOVpkcFRVcnBOd05GQkxremZkRnZzbz0YACAAKAAwOji3oLHn9DNAt6Cx5/QzShxTYjNqcHFEcjhSeE9GVGRTQnlXcjZHdjZjVWM9WiIiIP///+5naVNXeEdEaTNCcVNYUWFFbVo5MUFET0k4YkE9ZQAAAAASngEIKxKZAQocbmh1VEFkTllUM3hNVFFIcU9BSE80QUh1US9FPRIfPEM+bmh1VEFkTllUM3hNVFFIcU9BSE80QUh1US9FPRgAIAMoAzBNOLagsef0M0CRkYeC9TNKHHlScHNreUtFanpSZy9KcFJiSUtDQXhyQzZsYz1aHyId3lQ5WkxINDQwK1lMSHluYU5qTjFyN3dVeDlGST1lUELD0hKeAQgfEpkBChxISEs0YjVCeUVMYzhSRVNWUlFnbHFyMVA1WEk9Eh88Qz5ISEs0YjVCeUVMYzhSRVNWUlFnbHFyMVA1WEk9GAAgACgAMEE4taCx5/QzQLWgsef0M0occHMyVU50REcxVXpUQTVHUERnNERsdmd2a2ljPVofIh3bZ1pDK2RNQW1FTGRaNUxvOFN0WmRhTVJCL3pJPWXtoga8Ep0BCAYSmAEKHFo4TUh4WW1UbGRrOUsyQndacGVUQ3Q3eFNuOD0SHzxDPlo4TUh4WW1UbGRrOUsyQndacGVUQ3Q3eFNuOD0YACAAKAAwBjizoLHn9DNAs6Cx5/QzShxwWHRUZldSZStYcUc4Y1BvYTVPN21IWDJibUE9Wh4iHEVOb3l6WDh5Nlc4Vm1iZ2EvK3Uzcng5OUdNVT1lAAAAABKeAQgLEpkBChwvdzNESHcrcWtTbFVhYjU3MndyNTQ1eXJvVUU9Eh88Qz4vdzNESHcrcWtTbFVhYjU3MndyNTQ1eXJvVUU9GAAgACgAMAk4tKCx5/QzQLSgsef0M0ocZGJlcWNPOTRYK1NPWFh3UUZrYmppUjNFRnZJPVofIh3YYktJWFdIckVXZDFFS0pNc3BpRUxqV2hRMnhVPWXuNW13EmcIBBJjChw3UUIrTzE3K053d1hMYzRHVGlrYWUvRmFyN289EhI8Uz50cmFzaF9ib29rbWFya3MYACAAKAAwBTgAQABKHGNESmx1V0tsaitHcDluSlhVUFUrQ3IrNDdSbz1aAGUAAAAAEp4BCBISmQEKHGtSc3BOQ2s1b0piS0JQdHBQMlh0elJqOW9xRT0SHzxDPmtSc3BOQ2s1b0piS0JQdHBQMlh0elJqOW9xRT0YACAAKAAwGDi0oLHn9DNAtKCx5/QzShxpby9KUCtwaXlSOHNzeGd2TzBXckhxR050TG89Wh8iHd4ydzBWT3ErWjNjOTZCSW5QQ3VIWGt4TVZFTTQ9Zb/u1goSngEIGRKZAQocTllSeDMxVnhod05RR05HSjJtcEkzUkFJTEo4PRIfPEM+TllSeDMxVnhod05RR05HSjJtcEkzUkFJTEo4PRgAIAAoADATOLWgsef0M0C1oLHn9DNKHDB5YlhWZjd1TVRXZ1VSNm52NWtIRG1IZmlLdz1aHyId7kxPZFVLYVpEeThER3Q1VU5sWTFNVlAvWDM4TT1l+JRkwBKfAQg3EpoBChw4MHNsdm56QVBRQVRVcFZBUndzNU5YbldObzQ9Eh88Qz44MHNsdm56QVBRQVRVcFZBUndzNU5YbldObzQ9GAAgACgAMCs4tqCx5/QzQLagsef0M0ocOXFybm40bVpTamJ5UXQzWmUwa0t0dyszNUl3PVogIh7//TNiZlZ3V3RmUEo1ZmdoUW5BajVERVljWGc5MD1lAAAAABKdAQgQEpgBChxmRjRUUFJ2KzZ2K3ZRS3pmTDNXWENSSkwvcnc9Eh88Qz5mRjRUUFJ2KzZ2K3ZRS3pmTDNXWENSSkwvcnc9GAAgACgAMBY4tKCx5/QzQLSgsef0M0ocTDY2UFB3TlE5RlRmWHRxVGpiWWJoY2NtaUhzPVoeIhx5OUhwUzZzSUpjVzdNZFZFVVdCcG1rLzBHN2s9ZQNRgLkSngEIDRKZAQocOFhXczBYalJ3R2RTaCtBNWY0b2JlLzBPN1V3PRIfPEM+OFhXczBYalJ3R2RTaCtBNWY0b2JlLzBPN1V3PRgAIAAoADALOLSgsef0M0C0oLHn9DNKHFNBWEpLNklyOXFwSVd2VEdMWDltU1E5R0VVWT1aHyId9jdRQ1VGT0NjaEd4TzJDSlVoQkFXRXpSWlZmdz1lBLplDhKeAQgvEpkBChxZdGJtQVBBV2RLRUdIZFE2UGQ4czJLWFNLd1E9Eh88Qz5ZdGJtQVBBV2RLRUdIZFE2UGQ4czJLWFNLd1E9GAAgACgAMCM4tqCx5/QzQLagsef0M0ocVHhORElYSUdwSENIbnNyc0tzOEMxUEZpQlRZPVofIh39SzhkVFdGWldKTDVSTzRhK3JaZ2NLOGtkcDRVPWUAAAAAEp4BCBMSmQEKHDZwT05OT1dkRTFkSWMwejhxNzRvN2diaHFJdz0SHzxDPjZwT05OT1dkRTFkSWMwejhxNzRvN2diaHFJdz0YACAAKAAwGTi0oLHn9DNAtKCx5/QzShxiMlJYeUtDbFFpdTYxNmUvdkd4WFJRRUlHNHc9Wh8iHe90TmlNeE9IWHVXYnJ5aFhBeUJFZ0JWbFVsUVk9ZTUAfUISoAEIPhKbAQocYWpvUmpLdEM1bk8zOEcwVS9aSnB1ck1oZ0J3PRIfPEM+YWpvUmpLdEM1bk8zOEcwVS9aSnB1ck1oZ0J3PRgAIAAoADAyOLegsef0M0C3oLHn9DNKHGYvS3FyTU92bFFNL0J3N0txaWhYdC9EV1YzMD1aISIf///7b2NwSk03WDhSaGNHNWRFR2ZwNXNLaUtDZEZFPWUAAAAAEp8BCDISmgEKHHdHRmdpTXR0L1hTdUNRUW1BaWh4TEdkR0hDQT0SHzxDPndHRmdpTXR0L1hTdUNRUW1BaWh4TEdkR0hDQT0YACAAKAAwJji2oLHn9DNAtqCx5/QzShw3eUtQYWxnMlo3eDFjU1FxL1JJMW1zMjFjWWM9WiAiHv+3WHV0djZjamo5VFFVeW5ZMFFyNkRIRVlwWDBjPWUAAAAAEp0BCCASmAEKHEN3SExxdEltT2pKdExCRWZKL1JCQnhSK1RPYz0SHzxDPkN3SExxdEltT2pKdExCRWZKL1JCQnhSK1RPYz0YACAAKAAwQji1oLHn9DNAtaCx5/QzShwvaEl5NktaSlVreTZmTnNPaVF5UzMzK2NBVHM9Wh4iHGhsd1AyYW8ySzZ1Sjh2ZkpxK2EvT3M0MTBHUT1lQvQkFRKdAQgPEpgBChxFaDRyaTJrTDViQThrdThHQ2RMOUtoKzE5TDQ9Eh88Qz5FaDRyaTJrTDViQThrdThHQ2RMOUtoKzE5TDQ9GAAgACgAMBU4tKCx5/QzQLSgsef0M0ocMDdLVlBqQ1R2dXRDckgwMzA4SGFJMzNoRGVNPVoeIhxvY1VqN1hjZjJmc01QeEg0cEd1dndleWRuUE09ZQAAAAAwATgAgPEEAQ==",
+   "version": 1
+}
