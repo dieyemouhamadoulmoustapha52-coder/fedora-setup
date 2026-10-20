@@ -1,0 +1,7 @@
+# Secrets : JAMAIS sur GitHub
+id_*
+*.pem
+*.key
+.env
+*token*
+.ssh/
