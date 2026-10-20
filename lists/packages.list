@@ -1,0 +1,6 @@
+add:htop
+add:curl
+add:wget
+add:git
+add:tmux
+add:zsh
