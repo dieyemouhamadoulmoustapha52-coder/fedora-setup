@@ -5,3 +5,4 @@ id_*
 .env
 *token*
 .ssh/
+dotfiles/vivaldi/Preferences
